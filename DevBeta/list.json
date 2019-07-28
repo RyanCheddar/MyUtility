@@ -1,5 +1,7 @@
 {
 "ANN:”Apple Betas” utility launched!": "a",
-"iOS/iPadOS 13 Dev Beta 4": "13b",
-"watchOS 6 Dev Beta 4": "w6b"
+"iOS/iPadOS 13 Dev Beta": "idev",
+"watchOS 6 Dev Beta": "wdev",
+"iOS/iPadOS 13 Public Beta": "ipub",
+"watchOS 6 Public Beta": "wpub"
 }
