@@ -2,5 +2,6 @@
 "ANN:”Apple Betas” utility launched!": "a",
 "iOS/iPadOS 13 Dev Beta": "idev",
 "watchOS 6 Dev Beta": "wdev",
-"iOS/iPadOS 13 Public Beta": "ipub"
+"iOS/iPadOS 13 Public Beta": "ipub",
+"Block iOS/iPadOS Updates": "bupd"
 }
